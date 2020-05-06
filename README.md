@@ -1,6 +1,6 @@
-# HSM Bezel Reflection Shader Graphics
+# HSM Reflection Shader Graphics
 
-## 4K System graphics created specifically for use with the HSM Reflection Shader.
+## 4K System graphics created specifically for use with the HSM Mega Bezel Reflection Shader.
 
 This project is an attempt to provide end users with high quality art to use in conjunction with the amazing **HSM Bezel Reflection Shader** created by **HyperspaceMadness**.
 
