@@ -1,4 +1,4 @@
-# HSM-Reflection-Shader-Graphics
+# HSM Bezel Reflection Shader Graphics
 
 ## 4K System graphics created specifically for use with the HSM Reflection Shader.
 
