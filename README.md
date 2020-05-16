@@ -10,3 +10,4 @@ While developing this art I have a few select goals.
 * High quality is a must! When using existing art as a reference, it will be paired with photographic references in an effort to improve it.
 * Raster output of 4K at 300dpi
 * all project files will be provided. Layer structure within the project files will assume that an end user may want to change the bezel size or placement, and attempt to make balancing the artwork easy.
+* Inclusion of both logo & plain versions
