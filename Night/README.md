@@ -1,4 +1,4 @@
-First you need load one of HSM's shaders and create either a game or core preset. Then use the night version graphics as the background in the shader. (By manually editing the background image path in the preset *.slangp.) 
+First you need to load one of HSM's shaders and create either a game or core preset. Then use the night version graphics as the background in the shader. (By manually editing the background image path in the preset *.slangp.) 
 
 ![](slang%20edit1.png)  
 
