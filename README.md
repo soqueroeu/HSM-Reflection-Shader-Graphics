@@ -18,4 +18,4 @@ Some screenshots...
 
 ![](/images/Gamecube.png)
 
-![](/images/Super%20Famicom.png)
+![](/images/Super_Famicom.png)
