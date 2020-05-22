@@ -11,3 +11,11 @@ While developing this art I have a few select goals.
 * Raster output of 4K at 300dpi
 * All project files will be provided. Layer structure within the project files will assume that an end user may want to change the bezel size or placement, and attempt to make balancing the artwork easy.
 * Inclusion of both logo & plain versions
+
+Some screenshots...
+
+![](/images/SNES.png)
+
+![](/images/Gamecube.png)
+
+![](/images/Super%20Famicom.png)
