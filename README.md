@@ -2,16 +2,16 @@
 
 ## 4K System graphics created specifically for use with the HSM Mega Bezel Reflection Shader.
 
-This project is an attempt to provide end users with high quality art to use in conjunction with the amazing **HSM Bezel Reflection Shader** created by **HyperspaceMadness**.
+This project is an attempt to provide end users with high quality art to use in conjunction with the amazing **Mega Bezel Reflection Shader** created by **HyperspaceMadness**.
 
 While developing this art I have a few select goals.
 
 * All art will be vector based.
-* If raster effects are used at any point they will be 300dpi
+* If raster effects are used at any point they will be 300dpi. This may include text layer imports from Photoshop.
 * High quality is a must! When using existing art as a reference, it will be paired with photographic references in an effort to improve it's realism and give it a cohesive style.
 * Final raster output of 4K at 300dpi
-* All project files will be provided. Layer structure within the project files will assume that an end user may want to change the bezel size or placement, and attempt to make balancing the artwork easy.
-* Inclusion of logo, night, plain, and 4K vertical versions.
+* All project files will be provided. Layer structure within the project files will assume that an end user may want to change the bezel size or placement, and *attempt* to make balancing the artwork easy.
+* Inclusion of logo, night, plain, and 4K vertical versions, where they make sense.
 
 Some screenshots...
 
@@ -26,9 +26,9 @@ Some screenshots...
 
 Just in case you have never had the shader running, here is a quick guide to it and my graphics.
 
-1.    First of all, I really recommend a fresh clean install of Retroarch, just to make sure nothing interferes. I couldnít get the shader to work at all when I first tried, primarily because I was using an existing RA setup.
+1.    First of all, I really recommend a fresh clean install of Retroarch, just to make sure nothing interferes. I couldn‚Äôt get the shader to work at all when I first tried, primarily because I was using an existing RA setup.
 
-2.    Unpack the shader into the install and follow HSMís instructions.
+2.    Unpack the shader into the install and follow HSM‚Äôs instructions.
 
 ```
 Set your video driver to Vulcan or GLCore
@@ -38,11 +38,11 @@ Set your video aspect ratio to your monitor aspect and set integer scale to OFF
     
 3.    Install your core, load some content, and try one of the shader presets. (I have been designing around guest-dr-venom.
 
-4.    Once it is working, make a small change in the parameters. (I usually change the ì[BEZEL & FRAME COLOR] Color Value/Brightness - Def 10î from the default of 10 to 9.80. Save a shader core preset.
+4.    Once it is working, make a small change in the parameters. (I usually change the ‚Äú[BEZEL & FRAME COLOR] Color Value/Brightness - Def 10‚Äù from the default of 10 to 9.80. Save a shader core preset.
 
-5.    Copy my graphics to a folder of your choice. I use ìD:\Games\Retroarch\imagesî.
+5.    Copy my graphics to a folder of your choice. I use ‚ÄúD:\Games\Retroarch\images‚Äù.
 
-6.    Navigate to the shader preset you saved in step #4. e.g. ìD:\Games\RetroArch\shaders\presets\Beetle PSX HW\Beetle PSX HW.slangpî, and open it in a text editor. At the end of the file modify this line,
+6.    Navigate to the shader preset you saved in step #4. e.g. ‚ÄúD:\Games\RetroArch\shaders\presets\Beetle PSX HW\Beetle PSX HW.slangp‚Äù, and open it in a text editor. At the end of the file modify this line,
 
 ![](/images/background_image_info.jpg)
 
