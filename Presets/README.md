@@ -8,6 +8,6 @@ These presets depend on the graphics being in the overlay directory and a bezel 
 
 Copy the presets into your shader folder. (\RetroArch\shaders)
 
-Load your content and then a preset. I recommend creating a core preset next. Make any small change to the shader parameters, for example, change the "[BEZEL & FRAME COLOR] Color Value/Brightness - Def 10" one tick to the left or right. (Which should be perfectly harmless.) Then save a core preset.
+Load your content and then a preset. I recommend creating a core preset next.
 
 I will try to keep these updated as the shader is updated.
