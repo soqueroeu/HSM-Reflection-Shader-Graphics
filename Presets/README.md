@@ -8,6 +8,6 @@ These presets depend on the graphics being in the overlay directory and a bezel 
 
 Copy the presets into your shader folder. (\RetroArch\shaders)
 
-Load your content and then a preset. I recommend creating a core preset next.
+Load your content and then a preset. I recommend creating a core preset next. If you plan on doing any manual tweaking to the *.slangp you need to make some small change in the shader parameters before you create a core preset. I usually nudge the "[BEZEL & FRAME] Color Value/Brightness" just a bit because such a small change is insignificant.
 
 I will try to keep these updated as the shader is updated.
