@@ -4,6 +4,10 @@
 
 This project is an attempt to provide end users with high quality art to use in conjunction with the amazing **Mega Bezel Reflection Shader** created by **HyperspaceMadness**.
 
+My Feedback and announcement page is on Libretro:
+
+https://forums.libretro.com/t/duimon-hsm-reflection-shader-graphics-feedback-and-updates/28146
+
 While developing this art I have a few select goals.
 
 * All art will be vector based.
